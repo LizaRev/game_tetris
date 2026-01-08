@@ -1,2 +1,1 @@
-# game_tetris
-# kr
+game_tetris
